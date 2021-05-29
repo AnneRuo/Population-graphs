@@ -1,0 +1,34 @@
+.content {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.container {
+    margin-top: 40px;;
+    width: 75vw;
+    height: 60vh;
+}
+
+a {
+    color: #10A2A2;
+}
+
+h1 {
+    font-family: 'Oxygen', sans-serif;
+    margin: 20px;
+}
+
+.country {
+    margin: 10px;
+}
+
+.renderBtn {
+    margin-top: 20px;
+}
+
+footer {
+    text-align: center;
+    padding: 10px 20px;
+    background-image: url(footerimg.png);
+    height: 200px;
+}
